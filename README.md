@@ -2,11 +2,6 @@
 
 A navigable Excel controlbook for project portfolio management, built with Power Query, Power Pivot, DAX, and CUBE formulas. Designed for engineering & construction companies tracking project financials across multiple regions.
 
-![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
-![Power Pivot](https://img.shields.io/badge/Power%20Pivot-DAX-orange)
-![CUBE Functions](https://img.shields.io/badge/CUBE-Functions-blueviolet)
-![License](https://img.shields.io/badge/License-MIT-blue)
-
 ## Overview
 
 This workbook demonstrates a **navigable controlbook** approach — a single Excel file with interconnected sheets for drilling down from summary to regional detail views.
@@ -153,25 +148,12 @@ SUMX(
 ## File Structure
 
 ```
-Financial-Controlbook-Excel/
+excel-financial-controlbook/
 ├── README.md
-├── Navigating_Files_Project_Controlbook_v1.xlsx
-├── data/
-│   ├── dim_client.csv
-│   ├── dim_company.csv
-│   ├── dim_date_month.csv
-│   ├── dim_project.csv
-│   ├── dim_region.csv
-│   ├── dim_vendor.csv
-│   ├── fact_baseline_month.csv
-│   ├── fact_commitments.csv
-│   ├── fact_forecast_snapshot.csv
-│   ├── fact_project_contract.csv
-│   ├── fact_project_month.csv
-│   └── fact_resource_plan_month.csv
-└── screenshots/
-    └── (add your own)
+└── Navigating_Files_Project_Controlbook_v1.xlsx
 ```
+
+**Source data (CSV files):** Available in the related repository → [Financial-Controlling-Dashboard-Excel](https://github.com/mbimarban/Financial-Controlling-Dashboard-Excel/tree/main/data)
 
 ## Getting Started
 

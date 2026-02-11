@@ -2,6 +2,11 @@
 
 A navigable Excel controlbook for project portfolio management, built with Power Query, Power Pivot, DAX, and CUBE formulas. Designed for engineering & construction companies tracking project financials across multiple regions.
 
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
+![Power Pivot](https://img.shields.io/badge/Power%20Pivot-DAX-orange)
+![CUBE Functions](https://img.shields.io/badge/CUBE-Functions-blueviolet)
+![License](https://img.shields.io/badge/License-MIT-blue)
+
 ## Overview
 
 This workbook demonstrates a **navigable controlbook** approach — a single Excel file with interconnected sheets for drilling down from summary to regional detail views.
